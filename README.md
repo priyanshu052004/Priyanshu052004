@@ -37,3 +37,38 @@ public class Bhavesh {
     }
 }
 ```
+
+
+<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHYzem90ZzQzeXYzZ2N0MnE0OTg1ZWhjZTEybTljcnNzejJ6a2Q3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" />
+
+🔥 **What I'm passionate about:**
+- 🏗️ Architecting robust backend systems with **Spring Boot** 
+- 🤖 Leveraging **AI/ML** to solve complex real-world problems
+- 🧠 Mastering **algorithmic thinking** and **data structures**
+- 📚 Currently diving deep into **System Design** & **Advanced Java**
+- 🚀 Building projects that make a difference
+
+<br clear="right"/>
+
+
+## 📊 **GitHub Analytics**
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu052004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu052004&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu052004&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="60%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu052004&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+
+</div>
+
+
+
