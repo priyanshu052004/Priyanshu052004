@@ -102,6 +102,7 @@ public class Priyanshu {
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 
 </div>
+---
 
 
 ## 🎯 2026 Goals
