@@ -103,19 +103,6 @@ public class Priyanshu {
 
 </div>
 
----
-
-## 🔨 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/priyanshu052004/LeetCode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu052004&repo=LeetCode&theme=tokyonight&hide_border=true" />
-  </a>
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
