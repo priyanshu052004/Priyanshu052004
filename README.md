@@ -9,11 +9,13 @@
 </p>
 
 <div align="center">
-  
-  ![Visitors](https://img.shields.io/badge/Visitors-5947-brightgreen)
-  [![GitHub followers](https://img.shields.io/github/followers/dev-bhaveshye?label=Followers&style=flat-square&color=blue)](https://github.com/dev-bhaveshye)
-  [![GitHub stars](https://img.shields.io/github/stars/dev-bhaveshye?label=Stars&style=flat-square&color=yellow)](https://github.com/dev-bhaveshye)
-  
+
+![Visitors](https://komarev.com/ghpvc/?username=priyanshu052004&label=Visitors&color=brightgreen)
+
+![GitHub followers](https://img.shields.io/github/followers/priyanshu052004?label=Followers&style=flat-square&color=blue)
+
+![GitHub stars](https://img.shields.io/github/stars/priyanshu052004/LeetCode?label=Stars&style=flat-square&color=yellow)
+
 </div>
 
 ## 🎯 **About Me**
