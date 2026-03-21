@@ -54,7 +54,7 @@ public class Priyanshu {
 🔭 Working on: Java + Spring Boot Projects
 🌱 Learning: Spring Boot, REST APIs, System Design
 💬 Ask me about: Java, OOPs, DSA
-⚡ Fun fact: I still use System.out.println() for debugging 😄
+Fun fact: I still use System.out.println() for debugging 😄
 
 </div>
 
