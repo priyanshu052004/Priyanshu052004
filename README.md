@@ -23,7 +23,7 @@ public class Priyanshu {
     String role = "Java Developer";
     String[] skills = {"Java", "Spring Boot", "DSA", "SQL"};
     String currentFocus = "Backend Development & Problem Solving";
-    String motto = "Code. Debug. Improve. Repeat. ☕";
+    String motto = "Code. Debug. Improve. Repeat. ";
 
     void dailyRoutine() {
         code();
